@@ -4,7 +4,7 @@ Hello  🙏 My name is Saurabh Kumar
 A passionate Full Stack Web Developer from India
 ------------------------------------------------
 
-* 🌍  I'm based in CA, USA
+* 🌍  I'm based in Patna, India
 * ✉️  You can contact me at [srkjha1234@gmail.com](srkjha1234@gmail.com)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on interesting projects
