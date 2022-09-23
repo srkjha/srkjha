@@ -12,7 +12,7 @@ A passionate Full Stack Web Developer from India
 
 
 <a href="https://www.twitter.com/saurabh_1211" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/s_kumar1211?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
+src="https://img.shields.io/twitter/follow/saurabh_1211?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
 /></a><a href="https://www.github.com/srkjha" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/srkjha?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 
