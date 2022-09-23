@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/srkjha?logo=github&style=for-the-ba
   
   
   
-<br>
+<br/>
 
 
 <h2 align="center">🤝 Support</h2>
