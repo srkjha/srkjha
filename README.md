@@ -11,8 +11,8 @@ A passionate Full Stack Web Developer from India
 * 💬 Ask me about **JAVA | SPRINGBOOT | MYSQL | HIBERNATE | CSS | HTML | JAVASCRIPT**
 
 
-<a href="https://www.twitter.com/saurabh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/saurabh?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
+<a href="https://www.twitter.com/#" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/#?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
 /></a><a href="https://www.github.com/srkjha" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/srkjha?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 
@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/srkjha?logo=github&style=for-the-ba
 ### Socials
   
 
-<p align="left"> <a href="https://www.github.com/srkjha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/srkjha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@srkjha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/saurabh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a >
+<p align="left"> <a href="https://www.github.com/srkjha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/srkjha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@srkjha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a >
   
   
   
