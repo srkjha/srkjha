@@ -1,7 +1,7 @@
 Hello  🙏 My name is Saurabh Kumar
 ===============================
 
-A passionate Full Stack Web Developer from India
+Java Backend Developer
 ------------------------------------------------
 
 * 🌍  I'm based in Patna, India
