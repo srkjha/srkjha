@@ -4,7 +4,7 @@ Hello  🙏 My name is Saurabh Kumar
 Java Backend Developer
 ------------------------------------------------
 
-* 🌍  I'm based in Patna, India
+* 🌍  I'm from Sitamarhi, Bihar
 * 📜  [Resume](https://github.com/srkjha/resume)
 * ✉️  You can contact me at [srkjha1234@gmail.com](srkjha1234@gmail.com)
 * 🧠  I'm learning Java
