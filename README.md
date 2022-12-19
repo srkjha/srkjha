@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **srkjha1234@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1k5C7ffJAmDp0_elAXSMcusPQbo81nvTZ/view?usp=share_link](https://drive.google.com/file/d/1k5C7ffJAmDp0_elAXSMcusPQbo81nvTZ/view?usp=share_link)
+- 📄 [Resume](https://github.com/srkjha/resume)
 
 <h3 align="left">Please Connect with me:</h3>
 <p align="left">
