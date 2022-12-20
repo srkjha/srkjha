@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">A passionate Back-end Developer</h3>
-<img align="center" alt="Coding" width= "400" src= "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e472naewarpw0tl8hon4wp3hkxf0rk3kxtxe29kgo9o&rid=giphy.gif&ct=g">
+<!-- <img align="center" alt="Coding" width= "400" src= "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e472naewarpw0tl8hon4wp3hkxf0rk3kxtxe29kgo9o&rid=giphy.gif&ct=g"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srkjha&label=Profile%20views&color=0e75b6&style=flat" alt="srkjha" /> </p>
