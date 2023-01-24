@@ -3,6 +3,11 @@
 </p>
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center"> I am a Java Backend Developer. An Motived and hardworking individual, Ready to apply my knowledge into Practice, I have a diverse sets of skills, Who is ready to take challenging and critical phase to accomplish the goals.</h3>
+
+<h2 align="left">🚀About me:</h2>
+
+Aspiring Java Backend Developer having a problem-solving mindset with a positive attitude and a willingness to learn new technologies. I am looking for a hopeful role in a company where I can utilize my skills and experience to contribute to the success of the team and the organization.
+
 <!-- <img align="center" alt="Coding" width= "400" src= "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e472naewarpw0tl8hon4wp3hkxf0rk3kxtxe29kgo9o&rid=giphy.gif&ct=g"> -->
 
 
